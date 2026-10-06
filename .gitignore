@@ -1,0 +1,17 @@
+# Godot 4 generated files
+.godot/
+.import/
+/export/
+/build/
+
+# Local engine caches and exported artifacts
+.cache/
+*.tmp
+*.log
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.uid
